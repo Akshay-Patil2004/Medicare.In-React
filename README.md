@@ -1,4 +1,4 @@
-# 🏥 CAREPOINT HOSPITAL – React Website
+# 🏥 Medicare.In – React Website
 
 A modern, responsive, and user-friendly hospital website built with **React.js, JavaScript, CSS, and Vite**. CAREPOINT HOSPITAL provides an interactive interface to explore medical services, discover doctors, learn about hospital facilities, and navigate appointment and contact sections.
 
