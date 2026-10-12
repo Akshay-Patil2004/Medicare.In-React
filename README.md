@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
 # 🏥 Medicare.In – React Website
 
 A modern, responsive, and user-friendly hospital website built with **React.js, JavaScript, CSS, and Vite**. CAREPOINT HOSPITAL provides an interactive interface to explore medical services, discover doctors, learn about hospital facilities, and navigate appointment and contact sections.
